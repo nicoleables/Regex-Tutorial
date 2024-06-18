@@ -4,7 +4,7 @@ developers to define complex search patterns, making them invaluable for tasks l
 
 ## Summary
 In this tutorial, we will explore thr regex pattern /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/. This pattern is commonly used 
-for validating email addresses. We will explain each part of the regexm including anchors, quantifiers, and character classes, to help get a better
+for validating email addresses. I will explain each part of the regexm including anchors, quantifiers, and character classes, to help get a better
 understanding on how it defines the search pattern for a valid email address.
 
 
